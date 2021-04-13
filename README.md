@@ -22,7 +22,7 @@
 
 - [x] Consulta à nomes de todos os repositórios de uma organização
 - [x] Consulta à Contribuidores presentes em todos repositórios de uma organização
-- [x] Consulta à Contribuições de Contribuidores de uma organização - http://localhost:9000/api/v1/organizations/[nome-da-organização]/contributors
+- [x] Consulta à Contribuições de Contribuidores de uma organização(http://localhost:9000/api/v1/organizations/[nome-da-organização]/contributors)
 
 
 ## Pré-requisitos
