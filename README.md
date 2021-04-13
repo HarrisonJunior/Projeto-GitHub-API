@@ -44,7 +44,7 @@ $ git clone https://github.com/HarrisonJunior/Projeto-GitHub-API.git
 $ Caso esteja utilizando o InteliJ, acesse o terminal sbt e execute o comando run
 $ Caso esteja utilizando o terminal cmd, acesse o diretório do projeto e execute o comando sbt run
 
-# O servidor inciará na porta:9000 - acesse <https://localhost:9000/api/v1/organizations/[nome-da-organização]/contributors passando> o nome da organização neste link
+# O servidor inciará na porta:9000 - acesse <http://localhost:9000/api/v1/organizations/[nome-da-organização]/contributors passando> o nome da organização neste link
 ```
 
 ## Tecnologias
