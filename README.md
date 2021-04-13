@@ -22,7 +22,7 @@
 
 - [x] Consulta à nomes de todos os repositórios de uma organização
 - [x] Consulta à Contribuidores presentes em todos repositórios de uma organização
-- [x] Consulta à Contribuições de Contribuidores de uma organização
+- [x] Consulta à Contribuições de Contribuidores de uma organização - http://localhost:9000/api/v1/organizations/[nome-da-organização]/contributors
 
 
 ## Pré-requisitos
@@ -44,7 +44,7 @@ $ git clone https://github.com/HarrisonJunior/Projeto-GitHub-API.git
 $ Caso esteja utilizando o InteliJ, acesse o terminal sbt e execute o comando run
 $ Caso esteja utilizando o terminal cmd, acesse o diretório do projeto e execute o comando sbt run
 
-# O servidor inciará na porta:9000 - acesse <http://localhost:9000> no navegador
+# O servidor inciará na porta:9000 - acesse http://localhost:9000/api/v1/organizations/[nome-da-organização]/contributors passando o nome da organização neste link
 ```
 
 ## Tecnologias
