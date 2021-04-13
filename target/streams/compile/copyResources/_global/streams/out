@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\harrison\Desktop\workspace java\github_api\conf\application.conf,C:\Users\harrison\Desktop\workspace java\github_api\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\harrison\Desktop\workspace java\github_api\conf\logback.xml,C:\Users\harrison\Desktop\workspace java\github_api\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\Users\harrison\Desktop\workspace java\github_api\conf\routes,C:\Users\harrison\Desktop\workspace java\github_api\target\scala-2.13\classes\routes)
