@@ -53,8 +53,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Java](https://docs.oracle.com/javase/8/docs)
 - [Play Framework 2.8.8](https://www.playframework.com/documentation/2.8.8/Home)
-- [sbt](https://www.scala-sbt.org/1.x/docs/)
-- [InteliJ IDEA] (https://www.jetbrains.com/pt-br/idea/)
+- [sbt](https://www.scala-sbt.org/1.x/docs)
+- [InteliJ IDEA](https://www.jetbrains.com/pt-br/idea)
 
 ## Autor
 
