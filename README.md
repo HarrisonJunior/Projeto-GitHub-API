@@ -51,10 +51,10 @@ $ Caso esteja utilizando o terminal cmd, acesse o diretório do projeto e execut
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Java](https://docs.oracle.com/javase/8/docs)
+- [Java 8](https://docs.oracle.com/javase/8/docs)
 - [Play Framework 2.8.8](https://www.playframework.com/documentation/2.8.8/Home)
-- [sbt](https://www.scala-sbt.org/1.x/docs)
-- [InteliJ IDEA](https://www.jetbrains.com/pt-br/idea)
+- [sbt 1.5](https://www.scala-sbt.org/1.x/docs)
+- [InteliJ IDEA 2020.1.2 (Community Edition)](https://www.jetbrains.com/pt-br/idea)
 
 ## Autor
 
