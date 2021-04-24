@@ -58,7 +58,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Autor
 
-Harrison Júnior 🚀
-Feito com ❤️ por Harrison Júnior 👋🏽!
+Harrison Júnior
 
 https://www.linkedin.com/in/harrison-j%C3%BAnior-13230b137 harrison.junior@hotmail.com
